@@ -1,3 +1,3 @@
 # Concentration-analysis
 
- About  Concentration-analysis Implementation and keep improving
+ About  Concentration-analysis Implementation and keeping improving
